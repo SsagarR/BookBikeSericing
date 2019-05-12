@@ -1,3 +1,11 @@
 <resources>
     <string name="app_name">BookBikeServicing</string>
+
+    <string-array name="bikes">
+        <item>KTM Duke200</item>
+        <item>KTM RC200</item>
+        <item>KTM Duke250</item>
+        <item>KTM Duke390</item>
+        <item>KTM RC390</item>
+    </string-array>
 </resources>
